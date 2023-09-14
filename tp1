@@ -1,1 +1,3 @@
-
+git init
+git config --global user.email "roxdi99@hotmail.com
+git config --global user.name "Patricia Roxana Rios"
